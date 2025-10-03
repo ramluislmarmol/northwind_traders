@@ -27,7 +27,7 @@ CREATE TABLE employees (
     title VARCHAR(255),
     city VARCHAR(255),
     country VARCHAR(255),
-    reportsTo INT NULL,
+    reportsTo INT,
     PRIMARY KEY(employeeID)
 );
 
