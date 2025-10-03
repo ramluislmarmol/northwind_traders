@@ -1,2 +1,6 @@
+-- Step 1, creating the database
+
+-- NOTE: IF YOU HAVE A VERSION OF NORTHWIND TRADERS SCHEMA, THIS WILL DELETE (DROP) THAT VERSION
+
 DROP DATABASE IF EXISTS northwind_traders;
 CREATE DATABASE northwind_traders;

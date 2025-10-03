@@ -1,4 +1,5 @@
 USE northwind_traders;
+-- Step 2, create the necessary tables and define their columns' data types
 
 -- Dim table categories, data from categories.csv
 CREATE TABLE categories (
