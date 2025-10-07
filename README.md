@@ -1,7 +1,7 @@
 # Project Description
 
 ## Rationale
-This project aims to analyze the famous Northwind Traders dataset using an multipage interactive Power BI dashboard connected to a MySQL database. The goal of this project is to provide the top management for at-a-glance analysis of the current performance of the company. Focusing on implementing slicers and multipage report.
+This project aims to analyze the famous Northwind Traders dataset using an multipage interactive Power BI dashboard connected to a MySQL database. The goal of this project is to provide the top management for at-a-glance analysis of the current performance of the company. Focusing on implementing slicers and making use of a multipage report.
 
 ## Project Output
 ### Dashboard
