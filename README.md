@@ -5,7 +5,8 @@ This project aims to analyze the famous Northwind Traders dataset using an multi
 
 ## Project Output
 ### Dashboard
-TODO: add dashboard
+![northwind_traders.mov](powerbi/exports/northwind_traders.mov)
+![northwind_traders_page1.jpg](powerbi/exports/northwind_traders_page1.jpg)
 
 ### Key Insights
 TODO: add insights
