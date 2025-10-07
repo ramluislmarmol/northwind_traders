@@ -5,18 +5,19 @@ This project aims to analyze the famous Northwind Traders dataset using an multi
 
 ## Project Output
 ### Dashboard
-![northwind_traders.mov](powerbi/exports/northwind_traders.mov)
+The dashboard is split into 4 pages, Revenue, Customers, Employee and Products.
+
 ![northwind_traders_page1.jpg](powerbi/exports/northwind_traders_page1.jpg)
+![northwind_traders_page2.jpg](powerbi/exports/northwind_traders_page2.jpg)
+![northwind_traders_page3.jpg](powerbi/exports/northwind_traders_page3.jpg)
+![northwind_traders_page4.jpg](powerbi/exports/northwind_traders_page4.jpg)
 
-### Key Insights
-TODO: add insights
-
-### My Recommendations
-TODO: add my recos
+### Interactivity Demonstration
+![northwind_traders.gif](powerbi/exports/northwind_traders.gif)
 
 ## Tools and Methodology
 ### MySQL
-TODO: add MySQL
+I used MySQL to host the main database. I used `LOAD DATA LOCAL INFILE` to load the data from my csv's to the database.
 ### Power BI
 TODO: add Power BI
 
