@@ -22,12 +22,6 @@ I used MySQL to host the main database. I used `LOAD DATA LOCAL INFILE` to load 
 TODO: add Power BI
 
 ## Learnings and Conclusion
-TODO: add learnings and conclusion
-
-## Installation
-### Prerequisites
-TODO
-### Setup
-TODO
+Most of my learnings for this project comes from dashboard building, specifically about how `CALCULATE()` and slicer visuals work together. It also taught me about making a separate `date_table` for dates and manipulation.
 
 rllm-lmgc
