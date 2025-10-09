@@ -19,7 +19,7 @@ The dashboard is split into 4 pages, Revenue, Customers, Employee and Products.
 ### MySQL
 I used MySQL to host the main database. I used `LOAD DATA LOCAL INFILE` to load the data from my csv's to the database.
 ### Power BI
-TODO: add Power BI
+I used a lot of DAX expressions to aggregate and slice data.
 
 ## Learnings and Conclusion
 Most of my learnings for this project comes from dashboard building, specifically about how `CALCULATE()` and slicer visuals work together. It also taught me about making a separate `date_table` for dates and manipulation.
